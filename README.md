@@ -37,7 +37,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NEON-BOTZ/TG-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/TG-Music)
 
 ## Session
 
